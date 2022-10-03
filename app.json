@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "bitsport-app",
+    "slug": "bitsport-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "f54c428f-26a6-4ab7-9327-159f978859b5"
+      }
+    }
+  }
+}
